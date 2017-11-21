@@ -1,0 +1,22 @@
+{
+  "name": "capacitor",
+  "version": "0.0.1",
+  "description": "An implementation of the Flux pattern",
+  "main": "lib/capacitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentalgrinds/capacitor.git"
+  },
+  "keywords": [
+    "flux"
+  ],
+  "author": "mentalgrinds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mentalgrinds/capacitor/issues"
+  },
+  "homepage": "https://github.com/mentalgrinds/capacitor#readme"
+}
